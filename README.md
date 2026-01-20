@@ -8,8 +8,8 @@
 
 <p>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvdelci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvdelci&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=velhodelcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velhodelcio&layout=compact&langs_count=8&theme=dracula"/>
     <p> 
       <!--<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>-->
       <br><label>Languages</label><br>
